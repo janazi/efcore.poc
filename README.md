@@ -1,2 +1,2 @@
-# efcore.poc
+# efcorepoc
 Poc about ef core
