@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCorePoc", "EfCorePoc\EfCorePoc.csproj", "{2A0CCC50-64A4-42A1-930D-199DC44E196D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCorePoc.Api", "EfCorePoc.Api\EfCorePoc.Api.csproj", "{A7C3AE37-5054-4391-9E2D-31D35C49102A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0CCC50-64A4-42A1-930D-199DC44E196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0CCC50-64A4-42A1-930D-199DC44E196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0CCC50-64A4-42A1-930D-199DC44E196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0CCC50-64A4-42A1-930D-199DC44E196D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C3AE37-5054-4391-9E2D-31D35C49102A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C3AE37-5054-4391-9E2D-31D35C49102A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C3AE37-5054-4391-9E2D-31D35C49102A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C3AE37-5054-4391-9E2D-31D35C49102A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B2B1B6-6154-484D-97C5-E73E21D627A6}
+	EndGlobalSection
+EndGlobal
